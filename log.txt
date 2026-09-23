@@ -1,0 +1,19 @@
+$ git commit -m "prikol"
+[master cc48b0c] prikol
+ 2 files changed, 48 insertions(+)
+ create mode 100644 diff.txt
+
+N1kro@eoo MINGW64 ~/OneDrive/Рабочий стол/Alg/23.09.26 Git/project (master)
+$ git log
+commit cc48b0c3168e2ad6415c96c1ade3359df2de3b84 (HEAD -> master)
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:03:51 2026 +0300
+
+    prikol
+
+commit b39b7b3b48fb4b55ed78d260dba904af97472eca
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 22:57:18 2026 +0300
+
+    get started
+
