@@ -18,4 +18,6 @@ invoker procast training list:
 &#x20; wqq - ghost walk
 
 &#x20; qwe - deafening blast
+ POTNIY procast:
+  cs tornado emp ice wall aghan sunstrike meteor hex bloodthorn deafening blast refresher cataclysm meteor deafening blast cs (ghostwalk + aura farming walkout po jelaniyu)
 
