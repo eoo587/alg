@@ -1,0 +1,17 @@
+Merge: a957518 d633ebc
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:29:22 2026 +0300
+
+    razrulil 2 legendarniy sikver
+
+commit a957518466facc23de4dda0a26c935f58a0dffc8
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:28:14 2026 +0300
+
+    )
+
+commit d633ebc651ef7664ad60b57adfb851b50f86550f (new)
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:27:34 2026 +0300
+
+    ya legenda
