@@ -18,4 +18,7 @@ invoker procast training list:
 &#x20; wqq - ghost walk
 
 &#x20; qwe - deafening blast
+ easy solo procast:
+
+&#x20; cs tornado emp sunstrike meteor deafening blast
 
