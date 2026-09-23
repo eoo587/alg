@@ -1,0 +1,44 @@
+commit ab4c522d651f9701099498e87381104ba9f3faf7 (HEAD -> master, new2)
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:46:22 2026 +0300
+
+    burn no sugar
+
+commit 23f10d924b26550bbf096d3a210b5767960a9f16
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:39:02 2026 +0300
+
+    monster zero ultra white
+
+commit ffbdb66b0322ce7b6920f37fddbbebc3d691d720
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:37:20 2026 +0300
+
+    nepridymal
+
+commit ec77034cde4b08796dd193fdf1a52366e5119bab
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:36:39 2026 +0300
+
+    2
+
+commit 4de5dd04129b3fcaf2a2387d7d0e38f19b312191
+Merge: a957518 d633ebc
+:
+commit ab4c522d651f9701099498e87381104ba9f3faf7 (HEAD -> master, new2)
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:46:22 2026 +0300
+
+    burn no sugar
+
+commit 23f10d924b26550bbf096d3a210b5767960a9f16
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:39:02 2026 +0300
+
+    monster zero ultra white
+
+commit ffbdb66b0322ce7b6920f37fddbbebc3d691d720
+Author: eoo <ns.ktmu@yandex.ru>
+Date:   Wed Sep 23 23:37:20 2026 +0300
+
+    nepridymal
